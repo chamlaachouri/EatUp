@@ -1,6 +1,7 @@
 🍔 EatUp — UX/UI Case Study
 # EatUp 🍔 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-orange) ![Prototype](https://img.shields.io/badge/Prototype-Figma-purple)
 ![Project Preview](Screenshot1.png)
+![Project Preview](Screenshot2.png)
 Role: UX/UI Designer + Prototype
 
 ---
