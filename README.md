@@ -71,15 +71,14 @@ This flow ensures the user reaches checkout in minimum clicks.
  * Screenshots
 
 
-![Home Screen](screenshots/screen1.png)
-![Product Screen](screenshots/screen2.png)
+![Home Screen](screenshots/Screenshot1.png)
+![Product Screen](screenshots/Screenshot2.png)
 
 ---
 
 * Prototype Link
 
-https://www.figma.com/proto/KVfaZdUnwPTmU0KON0z7ZY/food-ordering-app?page-id=0%3A1&node-id=3-2&p=f&viewport=66%2C208%2C0.38&t=RfWDZd6hN2GEkm4q-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
-
+https://www.figma.com/proto/KVfaZdUnwPTmU0KON0z7ZY/food-ordering-app?page-id=0%3A1&node-id=1-2&p=f&viewport=66%2C208%2C0.38&t=RfWDZd6hN2GEkm4q-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
 
 ---
 
