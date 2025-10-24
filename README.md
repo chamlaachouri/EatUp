@@ -71,8 +71,8 @@ This flow ensures the user reaches checkout in minimum clicks.
  * Screenshots
 
 
-![Home Screen](screenshots/Screenshot 1.png)
-![Product Screen](screenshots/Screenshot 2.png)
+![Home Screen](Screenshot 1.png)
+![Product Screen](Screenshot 2.png)
 
 ---
 
